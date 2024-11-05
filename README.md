@@ -96,3 +96,5 @@ The fine-tuned models displayed:
 - **Contextual Awareness:** Accurate responses in context-sensitive scenarios.
 - **Conversational Coherence:** Ability to maintain meaningful conversation across multiple exchanges.
 - **Enhanced Reasoning:** Solved basic riddles and answered story-related questions, demonstrating understanding beyond surface-level text.
+
+The trained models can be found at: https://huggingface.co/dario-mazzola/train_my_gpt/tree/main
